@@ -1,1 +1,1 @@
-# medi-notes-mobile
+# notes-app
